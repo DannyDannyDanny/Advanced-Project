@@ -3,8 +3,10 @@ Yeah, no idea what this project will be about. It's for 02830 Advanced Project i
 
 ![aa](figs/pringles.jpg)
 
-## Resources
 
+
+## Resources
+* [Course "Playbook"](02830Playbook.pdf)
 
 ## Notes from lecture one
 During the work, stay agile. Plan <-> Execute should be continuous loop.
@@ -27,3 +29,4 @@ Literature sucks, but do some research.
 * Tangible 3D modeling
 * Translation
 * Hearing aids
+* Spiral Data Visualization
